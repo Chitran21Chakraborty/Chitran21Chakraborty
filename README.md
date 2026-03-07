@@ -35,7 +35,7 @@ status  : Building Self Xerox Machine 🔭
 ## 🚀 Featured Project
 
 <a href="https://github.com/Chitran21Chakraborty/Self-Xerox-Machine">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chitran21Chakraborty&repo=Self-Xerox-Machine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&icon_color=8B9EFF"/>
+ 
 </a>
 
 **Self Xerox Machine** — Smart self-service automated photocopying system.  
