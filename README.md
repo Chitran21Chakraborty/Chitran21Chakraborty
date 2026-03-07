@@ -87,21 +87,7 @@ Integrates hardware with a Python automation layer for seamless, user-independen
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chitran21Chakraborty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&icon_color=8B9EFF&text_color=c9d1d9"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitran21Chakraborty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&text_color=c9d1d9"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chitran21Chakraborty&theme=tokyonight&hide_border=true&background=0d1117&ring=8B9EFF&fire=a78bfa&currStreakLabel=8B9EFF&sideLabels=8B9EFF" alt="GitHub Streak"/>
-
-</div>
-
----
 
 
 
