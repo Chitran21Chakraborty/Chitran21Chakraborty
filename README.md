@@ -3,7 +3,7 @@
 <!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Chitran%20Chakraborty&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Automation%20Developer&descSize=15&descAlignY=58&descColor=a0a8c0"/>
 
-<!-- TYPING SVG -->
+<!-- ANIMATED TYPING: ROLES -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=8B9EFF&center=true&vCenter=true&width=620&lines=Building+AI+Agents+%26+Automation+Systems;Full+Stack+Software+Engineer;B.Tech+CSE+(AI+%26+ML);Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
@@ -49,13 +49,9 @@ Integrates hardware with a Python automation layer for seamless, user-independen
 
 ## 🧰 Tech Stack
 
-<!-- Custom SVG: code banner -->
+<!-- ANIMATED: scrolling stack banner -->
 <div align="center">
-<svg width="700" height="38" viewBox="0 0 700 38" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="700" height="38" rx="8" fill="#0d1117"/>
-  <rect width="700" height="38" rx="8" stroke="#21262d" stroke-width="1"/>
-  <text font-family="monospace" font-size="12" fill="#8B9EFF" opacity="0.5" y="24" x="14">const stack = [ python, javascript, react, node, flask, pytorch, tensorflow, docker, postgres, mongo ]</text>
-</svg>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=4500&pause=2000&color=8B9EFF&center=true&vCenter=true&width=700&height=38&background=0d111700&lines=const+stack+%3D+%5B+python%2C+javascript%2C+react%2C+node%2C+flask%2C+pytorch%2C+tensorflow%2C+docker+%5D" alt="Stack Banner"/>
 </div>
 
 <br/>
@@ -137,18 +133,8 @@ Integrates hardware with a Python automation layer for seamless, user-independen
 
 <div align="center">
 
-<!-- Custom SVG footer: minimal divider with code motif -->
-<svg width="480" height="44" viewBox="0 0 480 44" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="22" x2="182" y2="22" stroke="#21262d" stroke-width="1"/>
-  <circle cx="191" cy="22" r="4" fill="#8B9EFF" opacity="0.5"/>
-  <circle cx="205" cy="22" r="2" fill="#a78bfa" opacity="0.6"/>
-  <text x="218" y="27" font-family="monospace" font-size="11" fill="#6b7280">{ code }</text>
-  <circle cx="275" cy="22" r="2" fill="#a78bfa" opacity="0.6"/>
-  <circle cx="289" cy="22" r="4" fill="#8B9EFF" opacity="0.5"/>
-  <line x1="298" y1="22" x2="480" y2="22" stroke="#21262d" stroke-width="1"/>
-</svg>
-
-<sub>Built with passion by <strong>Chitran Chakraborty</strong> · India 🇮🇳</sub>
+<!-- ANIMATED: footer typing -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=12&duration=3000&pause=5000&color=6B7280&center=true&vCenter=true&width=400&height=28&lines=%7B+Built+with+passion+by+Chitran+Chakraborty+%7D" alt="Footer"/>
 
 </div>
 
