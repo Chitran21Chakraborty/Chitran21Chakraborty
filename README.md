@@ -103,13 +103,7 @@ Integrates hardware with a Python automation layer for seamless, user-independen
 
 ---
 
-## 📈 Activity Graph
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitran21Chakraborty&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B9EFF&line=8B9EFF&point=ffffff&area=true&area_color=8B9EFF"/>
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
