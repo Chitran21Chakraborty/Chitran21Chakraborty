@@ -44,13 +44,12 @@ Integrates hardware with a Python automation layer for seamless, user-independen
 `Python` &nbsp;·&nbsp; `Automation` &nbsp;·&nbsp; `Hardware Integration`
 
 <a href="https://github.com/Chitran21Chakraborty/AI-Data-Preprocessing-Agent">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chitran21Chakraborty&repo=AI-Data-Preprocessing-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&icon_color=8B9EFF"/>
 </a>
 
 **AI Data Preprocessing Agent System** — Multi-agent AI pipeline that automatically cleans and prepares datasets for machine learning.  
 Uses an **Orchestrator + specialized agents** (Profiling, Imputation, Outlier, Encoding, Transformation, Dimensionality, Sampling) coordinated through **LangGraph** and powered by **LLaMA-3.3-70B via Groq** for context-aware preprocessing decisions.  
 Generates a **clean dataset, preprocessing report, and reproducible Python script** with a real-time streaming UI showing each agent’s actions.
-
+`Python` &nbsp;·&nbsp; `LangGraph` &nbsp;·&nbsp; `Multi-Agent AI` &nbsp;·&nbsp; `Groq API` &nbsp;·&nbsp; `Data Preprocessing` &nbsp;·&nbsp; `LLM Automation`
 <br clear="right"/>
 
 ---
