@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Chitran%20Chakraborty&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Automation%20Developer&descSize=16&descAlignY=58&descColor=a0a8c0"/>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f0c29,50:302b63,100:24243e&text=Chitran%20Chakraborty&fontSize=38&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Automation%20Developer&descSize=15&descAlignY=58&descColor=a0a8c0"/>
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=8B9EFF&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+Automation+Systems;Full+Stack+Software+Engineer;B.Tech+CSE+(AI+%26+ML);Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=1200&color=8B9EFF&center=true&vCenter=true&width=620&lines=Building+AI+Agents+%26+Automation+Systems;Full+Stack+Software+Engineer;B.Tech+CSE+(AI+%26+ML);Always+building+something+new+%F0%9F%9A%80" alt="Typing SVG"/>
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## `$ whoami`
 
 ```yaml
 name    : Chitran Chakraborty
@@ -27,83 +27,95 @@ location: India
 status  : Building Self Xerox Machine 🔭
 ```
 
-I build useful systems with code — from AI agents to hardware-software integrations.  
-Currently deep in **agentic AI & automation**, and yes, AI often writes my code faster than I can.
+> Building useful systems with code — AI agents, automation pipelines, and full-stack products.  
+> Currently deep in **agentic AI & automation**, and yes, AI often writes my code faster than I can.
 
 ---
 
-## Featured Project
+## 🚀 Featured Project
 
 <a href="https://github.com/Chitran21Chakraborty/Self-Xerox-Machine">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chitran21Chakraborty&repo=Self-Xerox-Machine&theme=tokyonight&hide_border=true&bg_color=1a1a2e"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=Chitran21Chakraborty&repo=Self-Xerox-Machine&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&icon_color=8B9EFF"/>
 </a>
 
-**Self Xerox Machine** — A smart self-service automated photocopying system.
+**Self Xerox Machine** — Smart self-service automated photocopying system.  
+Integrates hardware with a Python automation layer for seamless, user-independent operation.
 
-`Python` &nbsp; `Automation` &nbsp; `Hardware Integration`
+`Python` &nbsp;·&nbsp; `Automation` &nbsp;·&nbsp; `Hardware Integration`
 
 <br clear="right"/>
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=00599C)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=node.js&logoColor=339933)
-![Flask](https://img.shields.io/badge/Flask-1a1a2e?style=flat-square&logo=flask&logoColor=white)
-
-**Databases & DevOps**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-
-**AI / ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=150458)
-
----
-
-## GitHub Stats
-
+<!-- Custom SVG: code banner -->
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chitran21Chakraborty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=8B9EFF&icon_color=8B9EFF"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitran21Chakraborty&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=8B9EFF"/>
+<svg width="700" height="38" viewBox="0 0 700 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="700" height="38" rx="8" fill="#0d1117"/>
+  <rect width="700" height="38" rx="8" stroke="#21262d" stroke-width="1"/>
+  <text font-family="monospace" font-size="12" fill="#8B9EFF" opacity="0.5" y="24" x="14">const stack = [ python, javascript, react, node, flask, pytorch, tensorflow, docker, postgres, mongo ]</text>
+</svg>
+</div>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Chitran21Chakraborty&theme=tokyonight&hide_border=true&background=1a1a2e&ring=8B9EFF&fire=8B9EFF&currStreakLabel=8B9EFF" alt="GitHub Streak"/>
+**Languages**
 
-</div>
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=00599C)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=flat-square&logo=flask&logoColor=white)
+
+**Databases & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)
 
 ---
 
-## Activity Graph
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitran21Chakraborty&theme=react-dark&hide_border=true&bg_color=1a1a2e&color=8B9EFF&line=8B9EFF&point=ffffff"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Chitran21Chakraborty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&icon_color=8B9EFF&text_color=c9d1d9"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chitran21Chakraborty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8B9EFF&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Chitran21Chakraborty&theme=tokyonight&hide_border=true&background=0d1117&ring=8B9EFF&fire=a78bfa&currStreakLabel=8B9EFF&sideLabels=8B9EFF" alt="GitHub Streak"/>
+
 </div>
 
 ---
 
-## Contribution Snake
+## 📈 Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chitran21Chakraborty&theme=react-dark&hide_border=true&bg_color=0d1117&color=8B9EFF&line=8B9EFF&point=ffffff&area=true&area_color=8B9EFF"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Chitran21Chakraborty/Chitran21Chakraborty/output/github-contribution-grid-snake-dark.svg"/>
@@ -111,16 +123,34 @@ Currently deep in **agentic AI & automation**, and yes, AI often writes my code 
 
 ---
 
-## Connect
+## 🌐 Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Chitran21Chakraborty-8B9EFF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Chitran21Chakraborty)
-[![Twitter](https://img.shields.io/badge/Twitter-@harvesting__init-8B9EFF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a2e)](https://twitter.com/harvesting_init)
-[![Gmail](https://img.shields.io/badge/Gmail-chitran21c@gmail.com-8B9EFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:chitran21c@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Chitran21Chakraborty-8B9EFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Chitran21Chakraborty)
+[![Twitter](https://img.shields.io/badge/Twitter-@harvesting__init-8B9EFF?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/harvesting_init)
+[![Gmail](https://img.shields.io/badge/Gmail-chitran21c%40gmail.com-8B9EFF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:chitran21c@gmail.com)
 
 </div>
 
+---
+
 <div align="center">
+
+<!-- Custom SVG footer: minimal divider with code motif -->
+<svg width="480" height="44" viewBox="0 0 480 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <line x1="0" y1="22" x2="182" y2="22" stroke="#21262d" stroke-width="1"/>
+  <circle cx="191" cy="22" r="4" fill="#8B9EFF" opacity="0.5"/>
+  <circle cx="205" cy="22" r="2" fill="#a78bfa" opacity="0.6"/>
+  <text x="218" y="27" font-family="monospace" font-size="11" fill="#6b7280">{ code }</text>
+  <circle cx="275" cy="22" r="2" fill="#a78bfa" opacity="0.6"/>
+  <circle cx="289" cy="22" r="4" fill="#8B9EFF" opacity="0.5"/>
+  <line x1="298" y1="22" x2="480" y2="22" stroke="#21262d" stroke-width="1"/>
+</svg>
+
+<sub>Built with passion by <strong>Chitran Chakraborty</strong> · India 🇮🇳</sub>
+
+</div>
+
+<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:24243e,50:302b63,100:0f0c29&section=footer"/>
-</div>
